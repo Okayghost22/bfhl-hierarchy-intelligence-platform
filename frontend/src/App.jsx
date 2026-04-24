@@ -8,7 +8,7 @@ const SAMPLE_DATA = {
   ]
 };
 
-const API_URL = import.meta.env.VITE_API_URL || "/bfhl";
+const API_URL = "https://bfhl-hierarchy-intelligence-platform.onrender.com/bfhl";
 
 /**
  * Recursive Tree Node Component
